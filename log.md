@@ -17,3 +17,10 @@
 **Today's Progress**: I started working through Free Code Camp's font-end development program. It was strange to add CSS into the HTML and not put the CSS in a separate document, but looking forward to progressing through the program and contrasting it to SuperHi.
 
 **Thoughts:** Two steps forward, one step back. 
+
+
+### Day 3: December 8, 2017
+
+**Today's Progress**: More CSS flexbox, hover styles and image transition using SuperHi's week 4 tutorial.
+
+**Thoughts:** I want to spend more time today reading SuperHi's Learn to Code now.
