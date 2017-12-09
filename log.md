@@ -19,8 +19,14 @@
 **Thoughts:** Two steps forward, one step back. 
 
 
-### Day 3: December 8, 2017
+### Day 4: December 8, 2017
 
 **Today's Progress**: More CSS flexbox, hover styles and image transition using SuperHi's week 4 tutorial.
 
 **Thoughts:** I want to spend more time today reading SuperHi's Learn to Code now.
+
+### Day 5: December 9, 2017
+
+**Today's Progress**: Joined lesson 1 of Hear Me Code to learn python basics!
+
+**Thoughts:** Something new and different! :)
