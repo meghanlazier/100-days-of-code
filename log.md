@@ -30,3 +30,9 @@
 **Today's Progress**: Joined lesson 1 of Hear Me Code to learn python basics!
 
 **Thoughts:** Something new and different! :)
+
+### Day 6: December 10, 2017
+
+**Today's Progress**: Going through Internetting Is Hard's intro to HTML/CSS
+
+**Thoughts:** SuperHi skips some of the basics in the interest of making beautful site, so it's been good to have a refresher on absolute/relative links and other things I've forgotten about.
