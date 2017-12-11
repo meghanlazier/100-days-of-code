@@ -36,3 +36,9 @@
 **Today's Progress**: Going through Internetting Is Hard's intro to HTML/CSS
 
 **Thoughts:** SuperHi skips some of the basics in the interest of making beautful site, so it's been good to have a refresher on absolute/relative links and other things I've forgotten about.
+
+### Day 7: December 11, 2017
+
+**Today's Progress**: Worked on form formatting and styling, both HTML and CSS.
+
+**Thoughts:** I can't believe it's been a week!
