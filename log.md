@@ -42,3 +42,9 @@
 **Today's Progress**: Worked on form formatting and styling, both HTML and CSS.
 
 **Thoughts:** I can't believe it's been a week!
+
+### Day 8: December 12, 2017
+
+**Today's Progress**: Worked on form formatting and styling, both HTML and CSS.
+
+**Thoughts:** I can't believe it's been a week!
