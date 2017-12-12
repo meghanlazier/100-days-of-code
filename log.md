@@ -45,6 +45,6 @@
 
 ### Day 8: December 12, 2017
 
-**Today's Progress**: Worked on form formatting and styling, both HTML and CSS.
+**Today's Progress**: Finished the HTML5 + CSS modules from Free Code Camp. Moved on to responsive design in Bootstrap.
 
-**Thoughts:** I can't believe it's been a week!
+**Thoughts:** I'm definitely motivated by seeing all of the modules in Free Code Camp's front-end dev certificate. That's something I want to accomplish in 100 days!
