@@ -48,3 +48,9 @@
 **Today's Progress**: Finished the HTML5 + CSS modules from Free Code Camp. Moved on to responsive design in Bootstrap.
 
 **Thoughts:** I'm definitely motivated by seeing all of the modules in Free Code Camp's front-end dev certificate. That's something I want to accomplish in 100 days!
+
+### Day 9: December 13, 2017
+
+**Today's Progress**: Worked my way through Free Code Camp's responsive design in bootstrap! Now I'm moving on to .jQuery.
+
+**Thoughts:** I'm definitely motivated by seeing all of the modules in Free Code Camp's front-end dev certificate. That's something I want to accomplish in 100 days!
