@@ -54,3 +54,9 @@
 **Today's Progress**: Worked my way through Free Code Camp's responsive design in bootstrap! Now I'm moving on to .jQuery.
 
 **Thoughts:** I'm definitely motivated by seeing all of the modules in Free Code Camp's front-end dev certificate. That's something I want to accomplish in 100 days!
+
+### Day 10: December 15, 2017
+
+**Today's Progress**: Worked my way through more .jQuery. Started my first project, buiding a tribute page, on Free Code Camp using CodePen.
+
+**Thoughts:** Enjoying seeing what I've retained and what I need to look up to complete my first page.
