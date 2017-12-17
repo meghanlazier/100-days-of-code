@@ -60,3 +60,9 @@
 **Today's Progress**: Worked my way through more .jQuery. Started my first project, buiding a tribute page, on Free Code Camp using CodePen.
 
 **Thoughts:** Enjoying seeing what I've retained and what I need to look up to complete my first page.
+
+### Day 11: December 17, 2017
+
+**Today's Progress**: Worked on week 5 of Superhi's HTML + CSS course. More flexbox + hero background positioning. 
+
+**Thoughts:** Two steps forward one step back.
