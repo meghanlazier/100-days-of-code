@@ -66,3 +66,9 @@
 **Today's Progress**: Worked on week 5 of Superhi's HTML + CSS course. More flexbox + hero background positioning. 
 
 **Thoughts:** Two steps forward one step back.
+
+### Day 12: December 18, 2017
+
+**Today's Progress**: Today I was back at it on FreeCodeCamp delving into Javascript. 
+
+**Thoughts:** Definitley going slower through the JavaScript tutorials than the HTML and CSS. I keep telling myself that JavaScript is new so it's OK to slow down, but working on Python at Hear Me Code has given me a boost of confidence that I can do it!
