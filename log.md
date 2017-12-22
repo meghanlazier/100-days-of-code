@@ -72,3 +72,9 @@
 **Today's Progress**: Today I was back at it on FreeCodeCamp delving into Javascript. 
 
 **Thoughts:** Definitley going slower through the JavaScript tutorials than the HTML and CSS. I keep telling myself that JavaScript is new so it's OK to slow down, but working on Python at Hear Me Code has given me a boost of confidence that I can do it!
+
+### Day 13: December 22, 2017
+
+**Today's Progress**: Worked through more of SuperHi's week five course, which is now starting to get into some basic .jQuery and Javascript. 
+
+**Thoughts:** This week has been crazy, so I haven't been able to stick to my normal schedule. I'm happy to get back to it today! :)
