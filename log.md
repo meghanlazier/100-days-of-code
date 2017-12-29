@@ -84,3 +84,9 @@
 **Today's Progress**: Finished week 5 of SuperHi's HTML, CSS and Javascript course! Finally using some .jQuery and Javascript. 
 
 **Thoughts:** Back at it after a bit of a break for the holidays and my birthday. Feeling a little rusty, but happy to jump back in.
+
+### Day 15: December 29, 2017
+
+**Today's Progress**: Finished week 6 of SuperHi's HTML, CSS and Javascript course. Definitely spent more than an hour on this today. I'm also trying to debug some of the code I wrote. 
+
+**Thoughts:** Felt good to get through week 6 in one day! Definitely going to try to push longer than an hour the next few days.
