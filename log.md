@@ -90,3 +90,10 @@
 **Today's Progress**: Finished week 6 of SuperHi's HTML, CSS and Javascript course. Definitely spent more than an hour on this today. I'm also trying to debug some of the code I wrote. 
 
 **Thoughts:** Felt good to get through week 6 in one day! Definitely going to try to push longer than an hour the next few days.
+
+### Day 16: December 31, 2017
+
+**Today's Progress**: Worked through part one of SuperHi's HTML, CSS and Javascript course, week 7, on lightboxes and modals. I also read some of SuperHi's book.
+
+**Thoughts:** 
+This seems so useful and practical for future projects.
