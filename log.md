@@ -97,3 +97,10 @@
 
 **Thoughts:** 
 This seems so useful and practical for future projects.
+
+### Day 17: January 1, 2018
+
+**Today's Progress**: Finished week 7 of SuperHi. Worked on setting variables, reusing code and else if statements. I have some buggy code, so will work on fixing it tomorrow.
+
+**Thoughts:** I need some supplemental reading on variables and if/then/else statements.
+
