@@ -104,3 +104,8 @@ This seems so useful and practical for future projects.
 
 **Thoughts:** I need some supplemental reading on variables and if/then/else statements.
 
+### Day 18: January 2, 2018
+
+**Today's Progress**: Halfway through week of of SuperHi! Last week of the course.
+
+**Thoughts:** Need some time for debugging code tomorrow.
