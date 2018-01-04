@@ -109,3 +109,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Halfway through week of of SuperHi! Last week of the course.
 
 **Thoughts:** Need some time for debugging code tomorrow.
+
+### Day 19: January 4, 2018
+
+**Today's Progress**: Finished my first course in SuperHi! Now on to a bit more of the homework.
+
+**Thoughts:** The Javascript seemed to move really fast at the end of the Superhi tutorial. Planning on jumping back in to Free Code Camp to get more of a solid foundation before doing anything more complex.
