@@ -115,3 +115,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Finished my first course in SuperHi! Now on to a bit more of the homework.
 
 **Thoughts:** The Javascript seemed to move really fast at the end of the Superhi tutorial. Planning on jumping back in to Free Code Camp to get more of a solid foundation before doing anything more complex.
+
+### Day 20: January 5, 2018
+
+**Today's Progress**: Worked on SuperHi's Lola's Cookery School project. I enjoyed putting together all the HTML. The CSS will definitely take more than one hour to finish.
+
+**Thoughts:** Stacking images...that's something I need a refresher on.
