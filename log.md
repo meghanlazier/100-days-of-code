@@ -121,3 +121,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Worked on SuperHi's Lola's Cookery School project. I enjoyed putting together all the HTML. The CSS will definitely take more than one hour to finish.
 
 **Thoughts:** Stacking images...that's something I need a refresher on.
+
+### Day 21: January 6, 2018
+
+**Today's Progress**: Worked on SuperHi's Lola's Cookery School project again today. Just have to work on CSS floats and divs tomorrow and I'm done!
+
+**Thoughts:** Note to self: READ and take notes on this stuff!
