@@ -127,3 +127,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Worked on SuperHi's Lola's Cookery School project again today. Just have to work on CSS floats and divs tomorrow and I'm done!
 
 **Thoughts:** Note to self: READ and take notes on this stuff!
+
+### Day 22: January 7, 2018
+
+**Today's Progress**: Worked on SuperHi's Lola's Cookery School project again today. Almost done with the desktop version, just having trouble getting things aligned. Next I'm on to tweaking the site for mobile views.
+
+**Thoughts:** This will get easier. Keep going.
