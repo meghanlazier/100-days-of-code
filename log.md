@@ -133,3 +133,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Worked on SuperHi's Lola's Cookery School project again today. Almost done with the desktop version, just having trouble getting things aligned. Next I'm on to tweaking the site for mobile views.
 
 **Thoughts:** This will get easier. Keep going.
+
+### Day 23: January 8, 2018
+
+**Today's Progress**: Switched back to FreeCodeCamp today and worked on arrays in Javascript.
+
+**Thoughts:** So glad I went to Hear Me Code. Making this learning so much easier.
