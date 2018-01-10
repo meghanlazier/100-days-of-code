@@ -139,3 +139,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Switched back to FreeCodeCamp today and worked on arrays in Javascript.
 
 **Thoughts:** So glad I went to Hear Me Code. Making this learning so much easier.
+
+### Day 24: January 10, 2018
+
+**Today's Progress**: Worked on passing values to functions and boolean statements in Javascript using FreeCode Camp.
+
+**Thoughts:** 177 challenges completed...can I make it to 200 tomorrow?
