@@ -145,3 +145,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Worked on passing values to functions and boolean statements in Javascript using FreeCode Camp.
 
 **Thoughts:** 177 challenges completed...can I make it to 200 tomorrow?
+
+### Day 25: January 11, 2018
+
+**Today's Progress**: Worked on if/else and switch statements in Javascript using FreeCode Camp.
+
+**Thoughts:** I want to spend more time on this.
