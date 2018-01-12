@@ -151,3 +151,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Worked on if/else and switch statements in Javascript using FreeCode Camp.
 
 **Thoughts:** I want to spend more time on this.
+
+### Day 26: January 12, 2018
+
+**Today's Progress**: Worked with switch statements and returning boolean values from functions. Really struggled with the card sorting exercise in @freeCodeCamp. Day 27 will be spent reviewing! 
+
+**Thoughts:** Ditto yesterday. I need to go back and revisit instead of moving forward.
