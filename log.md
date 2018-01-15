@@ -162,3 +162,8 @@ This seems so useful and practical for future projects.
 
 **Today's Progress**: Today I worked on CSS transitions and transforms in Lynda.com.
 
+
+### Day 28: January 15, 2018
+
+**Today's Progress**: I finished my tribute page and worked through more JS challenges in @FreeCodeCamp.
+
