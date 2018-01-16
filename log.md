@@ -167,3 +167,6 @@ This seems so useful and practical for future projects.
 
 **Today's Progress**: I finished my tribute page and worked through more JS challenges in @FreeCodeCamp.
 
+### Day 29: January 16, 2018
+
+**Today's Progress**: I learned how to use the command line to update files in GitHub. I also started playing around with CSS grid. 
