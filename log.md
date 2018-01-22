@@ -170,3 +170,9 @@ This seems so useful and practical for future projects.
 ### Day 29: January 16, 2018
 
 **Today's Progress**: I learned how to use the command line to update files in GitHub. I also started playing around with CSS grid. 
+
+### Day 30: January 22, 2018
+
+**Today's Progress**: Worked my way through all of Rachel Andrew's Grid by Example free tutorials. Definitely considering enrolling in her course. 
+
+**Thoughts:** I had almost no time to code last week. Glad to be back on the bandwagon!
