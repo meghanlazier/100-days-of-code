@@ -176,3 +176,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Worked my way through all of Rachel Andrew's Grid by Example free tutorials. Definitely considering enrolling in her course. 
 
 **Thoughts:** I had almost no time to code last week. Glad to be back on the bandwagon!
+
+### Day 31: January 23, 2018
+
+**Today's Progress**: Decided to watch the Javascript lingo and Chrome developer tools video series on Free Code Camp.
+
+**Thoughts:** I have less than 20 challenges left in the basic Javascript module, but I was feeling stuck. The videos were a good refresh.
