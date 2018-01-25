@@ -182,3 +182,9 @@ This seems so useful and practical for future projects.
 **Today's Progress**: Decided to watch the Javascript lingo and Chrome developer tools video series on Free Code Camp.
 
 **Thoughts:** I have less than 20 challenges left in the basic Javascript module, but I was feeling stuck. The videos were a good refresh.
+
+### Day 32: January 24, 2018
+
+**Today's Progress**: I read the first two chapters of Jon Duckett's Javascript and jQuery.
+
+**Thoughts:** This book is so helpful in explaining things in plain language and giving context.
