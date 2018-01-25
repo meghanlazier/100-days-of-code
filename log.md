@@ -188,3 +188,8 @@ This seems so useful and practical for future projects.
 **Today's Progress**: I read the first two chapters of Jon Duckett's Javascript and jQuery.
 
 **Thoughts:** This book is so helpful in explaining things in plain language and giving context.
+
+### Day 33: January 25, 2018
+
+**Today's Progress**: Spent 45 minutes on the Practical Javascript course. Plan to spend my last 15 minutes of the day reading Duckett's Javascript and jQuery before bed! 
+
