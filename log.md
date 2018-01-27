@@ -193,3 +193,10 @@ This seems so useful and practical for future projects.
 
 **Today's Progress**: Spent 45 minutes on the Practical Javascript course. Plan to spend my last 15 minutes of the day reading Duckett's Javascript and jQuery before bed! 
 
+### Day 33: January 25, 2018
+
+**Today's Progress**: Spent 45 minutes on the Practical Javascript course. Plan to spend my last 15 minutes of the day reading Duckett's Javascript and jQuery before bed! 
+
+### Day 34: January 27, 2018
+
+**Today's Progress**: Spending 3.5 hours at Hear Me Code. Learning about lists and loops in Python in the level 2 class!
